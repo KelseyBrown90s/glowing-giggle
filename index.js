@@ -40,7 +40,8 @@ console.log("4. How do you access the first element of any array?")
 console.log("You can access this element in an array by accessing the index:0.");
 
 console.log("5. Create a new array called nameLengths. Write a loop to iterate over the previously created names array and add the length of each name to the nameLengths array.");
-console.log("For example: namesArray = ["Kelly", "Sam", "Kate"] //given this array,nameLengths = [5, 3, 4] //create this new array.");
+console.log("For example: namesArray = ["Kelly", "Sam", "Kate"]);
+//given this array,nameLengths = [5, 3, 4] //create this new array."
 for(i=0;i<names.length-1;i++){
     let nameLengths= names.length[i];
 }
