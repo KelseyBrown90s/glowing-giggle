@@ -93,8 +93,8 @@ function willBuyDrink( isHotOutside , moneyInPocket){
 
 console.log("13. Create a function of your own that solves a problem. In comments, write what the function does and why you created it.");
  //My function is to determine if we have a good savingsBalance which is greater than the priceOfCar, then you can get the car. I think it's a good way to allow yourself learn how to spend wisely.
- function canIGoOut( savingsBalance , priceOfCar){
-    if ( savingsBalance > price of car ){
+ function canIBuyCar( savingsBalance , priceOfCar){
+    if ( savingsBalance > priceofcar ){
     console.log(“You can get the car!”) ;
     }
     }
